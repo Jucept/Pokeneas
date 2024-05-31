@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #dfdfdf;
+}
+.container {
+  text-align: center;
+}
+h1 {
+  color: #333;
+}
+p {
+  color: #666;
+}
+img {
+  max-width: 100%;
+  height: 200px;
+}
+
+#random_pokemon_image_url_id {
+  cursor: pointer;
+}
